@@ -153,7 +153,7 @@ export const education = [
     date: "May 2021 - June 2022",
     grade: "80%",
     desc: "Passed Class XII in 2022 with an overall score of 80%, securing Rank 1 in the class. Studied core subjects including Mathematics, Physics, and Chemistry, developing strong analytical and academic excellence.",
-    degree: "Class 12th (High School) – UP Board (2022)",
+    degree: "Class 12th (Intermediate) – UP Board (2022)",
   },
   {
     id: 2,
