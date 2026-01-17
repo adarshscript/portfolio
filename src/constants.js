@@ -149,7 +149,7 @@ export const education = [
   {
     id: 1,
     img: bsaLogo,
-    school: "S.M. Educational Academy, Jaunpur",
+    school: "T R N S I C CHANDIGAHANA JAUNPUR",
     date: "May 2021 - June 2022",
     grade: "80%",
     desc: "Passed Class XII in 2022 with an overall score of 80%, securing Rank 1 in the class. Studied core subjects including Mathematics, Physics, and Chemistry, developing strong analytical and academic excellence.",
@@ -158,7 +158,7 @@ export const education = [
   {
     id: 2,
     img: vpsLogo,
-    school: "S.M. Educational Academy, Jaunpur",
+    school: "T R N S I C CHANDIGAHANA JAUNPUR",
     date: "May 2019 - June 2020",
     grade: "79.5%",
     desc: "I completed my Class 10th under the UP Board with subjects including Hindi, English, Mathematics, Science, and Social Science, developing strong analytical thinking and academic discipline.",
